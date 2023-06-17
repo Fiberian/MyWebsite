@@ -1,8 +1,8 @@
 ---
-title: Booting the Library
+title: Tentang Indonesia Merdeka Roleplay
 sidebar_position: 2
 image: /img/rayfield/rayfield.png
-description: How to boot the Rayfield Library
+description: Menjelaskan apa itu IMRP
 ---
 
 ## Loading the Rayfield Library
@@ -13,7 +13,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 ### Secure Mode
 
-:::caution Warning
+:::information
 If the game you're trying to run Rayfield Interface Suite on, is detecting or crashing when you use Rayfield Interface Suite, try using Secure Mode:
 
 - Place `getgenv().SecureMode = true` above the initial Rayfield loadstring

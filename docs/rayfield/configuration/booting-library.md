@@ -13,7 +13,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 ### Secure Mode
 
-:::
+:::info
 If the game you're trying to run Rayfield Interface Suite on, is detecting or crashing when you use Rayfield Interface Suite, try using Secure Mode:
 
 - Place `getgenv().SecureMode = true` above the initial Rayfield loadstring
